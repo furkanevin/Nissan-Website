@@ -1,6 +1,6 @@
 # Nissan-Website
 ```diff
-   + <h1>  Preview </h1>
+$$\textcolor{yellow}{\text{Hello World}}$$
 - Red
 ! Orange
 @@ Pink @@
